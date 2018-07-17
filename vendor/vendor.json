@@ -109,6 +109,12 @@
 			"revisionTime": "2015-11-28T19:19:22Z"
 		},
 		{
+			"checksumSHA1": "a7/CHHVo9QHxo7C58s2FuHJl+6Q=",
+			"path": "github.com/apache/incubator-pulsar/pulsar-client-go/pulsar",
+			"revision": "ba1ea665f0a073701df68eeff3a6b2541f6d1fa6",
+			"revisionTime": "2018-07-16T21:00:46Z"
+		},
+		{
 			"checksumSHA1": "UlWLJjLRCRtXOzP6nLHb5YTWK+c=",
 			"path": "github.com/armon/go-socks5",
 			"revision": "e75332964ef517daa070d7c38a9466a0d687e0a5",
